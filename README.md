@@ -2,7 +2,7 @@
 
 A classic calculator made with C# and Windows Forms.
 
-See also [Simple calculator win forms](https://github.com/jaroshevskii/simple-calculator-win-forms).
+See also [Simple calculator](https://github.com/jaroshevskii/simple-calculator-win-forms).
 
 ## Screenshots
 
