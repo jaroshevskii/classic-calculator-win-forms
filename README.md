@@ -1,4 +1,4 @@
-# Classic calculator win forms
+# Classic calculator
 
 A classic calculator made with C# and Windows Forms.
 
